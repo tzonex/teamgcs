@@ -7,5 +7,6 @@ int multi(int,int);
 
 int main(int argc, char* argv[])
 {
-	
+	int a, b, c;
+	char operator;
 }
