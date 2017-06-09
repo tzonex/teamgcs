@@ -144,3 +144,9 @@ int htmlspecialchars(char *src,char **ret,int type){
     return 0;
 
 }
+
+int main(int argc, char* argv[])
+{
+	int a, b, c;
+	char operator;
+}
